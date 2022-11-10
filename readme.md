@@ -11,7 +11,7 @@
 
 </br>
 
-- 🔧 I’m currently working on... personal projects for get a job.
+- 🔧 I’m currently working on... personal projects to get a job.
 - 💡 I’m curious about... Human Mind and AI.
 - 📖 I’m currently learning ... Flask.
 - ❄️ I’m looking to collaborate on... progress of humanity with kindness.
