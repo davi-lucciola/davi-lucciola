@@ -19,8 +19,7 @@
 
 <hr>
 
-[![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-lucciola)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-lucciola)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 
 davi-lucciola/davi-lucciola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
