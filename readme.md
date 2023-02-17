@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=9F2129&vCenter=true&width=435&lines=Hi!;Im+Davi+Lucciola!;Studing+for+become+a+Data+Scientist...;Full-Stack+Enthusiast..."/>
+<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=9F2129&vCenter=true&width=435&lines=Hi!;Im+Davi+Lucciola!;Studing+for+become+a+Full+Stack+Developer..."/>
  
  <p>- <i>Aspiring software developer and data scientst with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i> </p>
 
@@ -18,6 +18,8 @@
 - 📫 How to reach me -> <a href="https://wa.me/557196413875"> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> & <a href="https://www.linkedin.com/in/davi-lucciola-63b93a237/">![LKD](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <hr>
+
+[![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-lucciola)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 
