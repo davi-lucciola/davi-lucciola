@@ -19,7 +19,9 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img href="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark"/>
+
 </br>
 
 <tr>
