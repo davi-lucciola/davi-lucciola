@@ -19,9 +19,9 @@
 
 <hr>
 
-
+<div style="text-align: center;">
 ![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark)
-
+<div/>
 </br>
 
 <tr>
