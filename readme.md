@@ -20,7 +20,7 @@
 <hr>
 
 
-<img href="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark"/>
+<img href="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark" alt="top_langs"/>
 
 </br>
 
