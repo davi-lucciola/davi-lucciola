@@ -19,7 +19,7 @@
 
 <hr>
 
-![Top_Langs](https://readme-stats.nbank.dev/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark)
+<img src="https://readme-stats.nbank.dev/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark">
 
 </br>
 
