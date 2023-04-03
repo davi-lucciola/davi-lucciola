@@ -19,7 +19,7 @@
 
 <hr>
 
-![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark)
+![Top_Langs](https://readme-stats.nbank.dev/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark)
 
 </br>
 
