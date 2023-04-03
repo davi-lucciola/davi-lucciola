@@ -18,11 +18,6 @@
 - 📫 How to reach me -> <a href="https://wa.me/557196413875"> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> & <a href="https://www.linkedin.com/in/davi-lucciola-63b93a237/">![LKD](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <hr>
-
-<div align="center">
- <img src="https://readme-stats.nbank.dev/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark" style="width: 600px;">
-</div>
-
 </br>
 
 <tr>
@@ -66,4 +61,9 @@
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)&nbsp;
 ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)&nbsp;
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)&nbsp;
-     
+
+<hr>
+ 
+<div align="center">
+ <img src="https://readme-stats.nbank.dev/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark" style="width: 600px;">
+</div>
