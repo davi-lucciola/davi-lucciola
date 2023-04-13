@@ -20,6 +20,10 @@
 <hr>
 </br>
 
+<div align="center">
+ <img src="https://readme-stats.nbank.dev/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark" style="width: 400px;">
+</div>
+
 <tr>
      
 ## 🛠️ Skills
@@ -63,7 +67,3 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)&nbsp;
 
 <hr>
- 
-<div align="center">
- <img src="https://readme-stats.nbank.dev/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark" style="width: 400px;">
-</div>
