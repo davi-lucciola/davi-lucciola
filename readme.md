@@ -13,7 +13,7 @@
 
 - 🔧 I’m currently working with... Backend Development.
 - 💡 I’m curious about... Human Mind and AI.
-- 📖 I’m currently learning ... FastApi and React.
+- 📖 I’m currently learning ... Cloud, AWS and Docker.
 - ❄️ I’m looking to collaborate on... progress of humanity with kindness.
 - 📫 How to reach me -> <a href="https://wa.me/557196413875"> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> & <a href="https://www.linkedin.com/in/davi-lucciola-63b93a237/">![LKD](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
