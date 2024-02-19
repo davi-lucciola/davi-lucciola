@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=9F2129&vCenter=true&width=435&lines=Hi!;Im+Davi+Lucciola!;Studing+for+become+a+Full+Stack+Developer..."/>
+<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=9F2129&vCenter=true&width=435&lines=Hi!;Im+Davi+Lucciola!;Full+Stack+Developer..."/>
  
  <p>- <i>Aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i> </p>
 
