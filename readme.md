@@ -15,7 +15,7 @@
 - 💡 I’m curious about... Human Mind and AI.
 - 📖 I’m currently learning ... Cloud, AWS and Docker.
 - ❄️ I’m looking to collaborate on... progress of humanity with kindness.
-- 📫 How to reach me -> <a href="https://wa.me/557196413875"> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> & <a href="https://www.linkedin.com/in/davi-lucciola-63b93a237/">![LKD](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+- 📫 How to reach me -> <a href="https://wa.me/553186997442?text=Olá%20Davi!%20Vi%20seu%20perfil%20no%20github%20e%20gostaria%20de%20falar%20com%20você."> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> & <a href="https://www.linkedin.com/in/davi-lucciola-63b93a237/">![LKD](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <hr>
 </br>
