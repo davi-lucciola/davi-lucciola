@@ -1,30 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
 <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&color=9F2129&vCenter=true&width=435&lines=Hi!;Im+Davi+Lucciola!;Full+Stack+Developer..."/>
- 
- <p>- <i>Aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i> </p>
-
-
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
-
-## ⚡🙋‍♂️ About Me
-
-</br>
-
-- 🔧 I’m currently working with... Backend Development.
-- 💡 I’m curious about... Human Mind and AI.
-- 📖 I’m currently learning ... Cloud, AWS and Docker.
-- ❄️ I’m looking to collaborate on... progress of humanity with kindness.
-- 📫 How to reach me -> <a href="https://wa.me/553186997442?text=Olá%20Davi!%20Vi%20seu%20perfil%20no%20github%20e%20gostaria%20de%20falar%20com%20você."> ![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a> & <a href="https://www.linkedin.com/in/davi-lucciola-63b93a237/">![LKD](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-<hr>
-</br>
-
-<div align="center">
- <img src="https://readme-stats.nbank.dev/api/top-langs/?username=davi-lucciola&layout=compact&theme=dark" style="width: 400px;">
-</div>
-
-<tr>
      
 ## 🛠️ Skills
 
@@ -34,11 +10,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-
-#### Data Analytics 
-
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 
 #### Web Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
